@@ -11,4 +11,3 @@ def isprime(n)
     end
     return true
 end
-
